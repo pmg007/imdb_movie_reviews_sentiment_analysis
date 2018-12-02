@@ -19,4 +19,4 @@ Python 3.x, Anaconda 3.x, Jupyter Notebook, Spyder
   - Neural Networks
 
 ### Dataset
-The dataset is obtained from the Stanford dataset repository and modified a bit, which can be found [here] (https://drive.google.com/file/d/1uoPp8u6AcJrcMhE5Ln6hM3MsA5TTPQL0/view?usp=sharing).
+The dataset is obtained from the Stanford dataset repository and modified a bit, which can be found [here](https://drive.google.com/file/d/1uoPp8u6AcJrcMhE5Ln6hM3MsA5TTPQL0/view?usp=sharing).
